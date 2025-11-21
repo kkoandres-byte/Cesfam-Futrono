@@ -1,0 +1,5 @@
+{
+  "name": "CESFAM Gestor de Agenda",
+  "description": "Sistema de gestión de bloqueos de agenda y permisos para personal de CESFAM con integración simulada de hojas de cálculo y calendario.",
+  "requestFramePermissions": []
+}
